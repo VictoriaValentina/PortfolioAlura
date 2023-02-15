@@ -18,7 +18,7 @@ Página Inicial | Página de Produtos | Página de Contato
 
 ### Links
 
-- Live Site URL: [Barbearia Alura](https://VictoriaValentina.github.io/PortfolioAlura/)
+- Live Site URL: [Portfolio Alura](https://VictoriaValentina.github.io/PortfolioAlura/)
 
 ## Meu processo
 
@@ -26,7 +26,7 @@ Página Inicial | Página de Produtos | Página de Contato
 
 - HTML5 Visual Studio Code
 - CSS Visual Studio Code
-- Mobile-first workflow	
+- Figma
 
 ### O que eu aprendi
 |                 Alura               |                                     |                                             |
