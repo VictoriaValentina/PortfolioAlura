@@ -12,7 +12,7 @@
 ## Overview
 
 ### Screenshot
-Página Inicial | Página de Produtos | Página de Contato
+Página Inicial | Sobre mim |
 
 ![](./portfolio.gif)
 
